@@ -53,16 +53,16 @@ public class Main {
                 // Respuestas antes las posibles opciones de las bolsas.
                 switch (respN) {
                     case 1:
-                        System.out.println("Gracias compraste la bolsa 1");
+                        System.out.println("Gracias, compraste la bolsa 1");
                         break;
                     case 2:
-                        System.out.println("Gracias compraste la bolsa 2");
+                        System.out.println("Gracias, compraste la bolsa 2");
                         break;
                     case 3:
-                        System.out.println("Gracias compraste la bolsa 3");
+                        System.out.println("Gracias, compraste la bolsa 3");
                         break;
                     case 4:
-                        System.out.println("Gracias compraste la bolsa 4");
+                        System.out.println("Gracias, compraste la bolsa 4");
                         break;
                 }
                 break;

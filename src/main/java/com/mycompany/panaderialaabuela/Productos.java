@@ -34,9 +34,9 @@ public enum Productos {
     Bolsa4(19, "Bolsa 4", 10.2);
 
     // Atributos que utilizan las opciones del enum //
-    final int codigoProducto;
-    final String nombreProducto;
-    final double precioProducto;
+    private final int codigoProducto;
+    private final String nombreProducto;
+    private final double precioProducto;
 
     // Constructor por defecto con el nombre de los productos y el precio //
     private Productos(int codigoProducto, String nombreProducto, double precioProducto) {
